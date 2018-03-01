@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>引</rb><rt>ひ</rt></ruby>っ<ruby><rb>越</rb><rt>こ</rt></ruby>すこと。<ruby><rb>転居</rb><rt>てんきょ</rt></ruby>。<ruby><rb>移転</rb><rt>いてん</rt></ruby>。",
+          "hyouki": [
+            "引っ越し"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "トラック"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。",
+          "hyouki": [
+            "国土交通省"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>や<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>で、<ruby><rb>勤</rb><rt>つと</rt></ruby>める<ruby><rb>地域</rb><rt>ちいき</rt></ruby>が<ruby><rb>変</rb><rt>か</rt></ruby>わること。",
+          "hyouki": [
+            "転勤"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>などを、<ruby><rb>送</rb><rt>おく</rt></ruby>り<ruby><rb>先</rb><rt>さき</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>まで<ruby><rb>届</rb><rt>とど</rt></ruby>ける<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。",
+          "hyouki": [
+            "宅配便"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>をつくり、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>総理大臣</rb><rt>そうりだいじん</rt></ruby>と<ruby><rb>国務大臣</rb><rt>こくむだいじん</rt></ruby>とがある。",
+          "hyouki": [
+            "大臣"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>一生懸命</rb><rt>いっしょうけんめい</rt></ruby>にすること。",
+          "hyouki": [
+            "努力"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>分</rb><rt>わ</rt></ruby>けて、わたす。",
+          "hyouki": [
+            "配る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>行</rb><rt>い</rt></ruby>きわたらせる。",
+          "hyouki": [
+            "配る"
+          ]
+        }
+      ]
+    }
+  }
+}

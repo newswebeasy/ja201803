@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011345581000",
+  "news_prearranged_time": "2018-03-01 11:30:00",
+  "title": "厚生労働省「日本へ来る前に結核の検査を受けてほしい」",
+  "title_with_ruby": "<ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby>「<ruby>日本<rt>にっぽん</rt></ruby>へ<ruby>来<rt>く</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>結核<rt>けっかく</rt></ruby>の<ruby>検査<rt>けんさ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けてほしい」",
+  "outline_with_ruby": "<p><ruby>結核<rt>けっかく</rt></ruby>は<a href='javascript:void(0)' class='dicWin' id='id-0002'>せき</a>や<ruby>熱<rt>ねつ</rt></ruby>が<ruby>長<rt>なが</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>く<ruby>病気<rt>びょうき</rt></ruby>で、<ruby>人<rt>ひと</rt></ruby>にうつります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180228/../20180228/K10011345581_1802280521_1802280523_01_03.jpg",
+  "news_web_movie_uri": "k10011345581_201802280521_201802280523.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011345581000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011345581000/k10011345581000.html"
+}
