@@ -1,0 +1,122 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>野菜</rb><rt>やさい</rt></ruby>や<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "畑"
+          ]
+        },
+        {
+          "def": "<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "畑"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>流</rb><rt>なが</rt></ruby>れ<ruby><rb>星</rb><rt>ぼし</rt></ruby>が、<ruby><rb>大気</rb><rt>たいき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<ruby><rb>燃</rb><rt>も</rt></ruby>えきらないで、<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>に<ruby><rb>落</rb><rt>お</rt></ruby>ちてきたもの。",
+          "hyouki": [
+            "隕石"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "できごとやものごとを<ruby><rb>伝</rb><rt>つた</rt></ruby>えるために、<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。",
+          "hyouki": [
+            "記事"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>鉄鉱石</rb><rt>てっこうせき</rt></ruby>から<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>した<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。かたくて<ruby><rb>使</rb><rt>つか</rt></ruby>いみちが<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。",
+          "hyouki": [
+            "鉄"
+          ]
+        },
+        {
+          "def": "かたくて<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "鉄"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>のこと。",
+          "hyouki": [
+            "鉄"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>白</rb><rt>しろ</rt></ruby>いつやがあり、<ruby><rb>銀</rb><rt>ぎん</rt></ruby>に<ruby><rb>似</rb><rt>に</rt></ruby>ている。",
+          "hyouki": [
+            "ニッケル"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>型</rb><rt>かた</rt></ruby>。<ruby><rb>類型</rb><rt>るいけい</rt></ruby>。",
+          "hyouki": [
+            "タイプ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>として<ruby><rb>動</rb><rt>うご</rt></ruby>いている<ruby><rb>星</rb><rt>ほし</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>や、その<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>、<ruby><rb>彗星</rb><rt>すいせい</rt></ruby>・<ruby><rb>流星</rb><rt>りゅうせい</rt></ruby>などからできている。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>もその<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>。",
+          "hyouki": [
+            "太陽系"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などに<ruby><rb>混</rb><rt>ま</rt></ruby>ざって、<ruby><rb>元</rb><rt>もと</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>がなくなる。",
+          "hyouki": [
+            "溶ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>固</rb><rt>かた</rt></ruby>まっている<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>液体</rb><rt>えきたい</rt></ruby>のようになる。",
+          "hyouki": [
+            "溶ける"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>や<ruby><rb>調査</rb><rt>ちょうさ</rt></ruby>のもととして<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>。",
+          "hyouki": [
+            "資料"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011345911000",
+  "news_prearranged_time": "2018-03-02 11:30:00",
+  "title": "大阪　日本でいちばん高いビルの屋上を歩くアトラクション",
+  "title_with_ruby": "<ruby>大阪<rt>おおさか</rt></ruby>　<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>高<rt>たか</rt></ruby>いビルの<ruby>屋上<rt>おくじょう</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くアトラクション",
+  "outline_with_ruby": "<p><ruby>大阪市<rt>おおさかし</rt></ruby>にある「あべのハルカス」は<ruby>高<rt>たか</rt></ruby>さが３００ｍで、<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>高<rt>たか</rt></ruby>いビルです。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180228/../20180228/K10011345911_1802281142_1802281200_01_02.jpg",
+  "news_web_movie_uri": "k10011345911_201802281742_201802281759.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011345911000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011345911000/k10011345911000.html"
+}
