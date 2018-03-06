@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>き。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>四角</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "やりかた。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。",
+          "hyouki": [
+            "方"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>公園</rb><rt>こうえん</rt></ruby>や<ruby><rb>庭</rb><rt>にわ</rt></ruby>にも<ruby><rb>植</rb><rt>う</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。ソメイヨシノ・シダレザクラ・ヤマザクラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>春</rb><rt>はる</rt></ruby>、うすもも<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の「<ruby><rb>国花</rb><rt>こっか</rt></ruby>」とされる。",
+          "hyouki": [
+            "桜"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>武芸</rb><rt>ぶげい</rt></ruby>を<ruby><rb>身</rb><rt>み</rt></ruby>につけて、いくさで<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>人</rb><rt>ひと</rt></ruby>。さむらい。",
+          "hyouki": [
+            "武士"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>うこと。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>争</rb><rt>あらそ</rt></ruby>い。",
+          "hyouki": [
+            "戦い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "戦い"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。",
+          "hyouki": [
+            "ピンク"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>１１</rb><rt>じゅういち</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "中旬"
+          ]
+        }
+      ]
+    }
+  }
+}

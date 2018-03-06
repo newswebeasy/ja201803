@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>役目</rb><rt>やくめ</rt></ruby>をもった<ruby><rb>使者</rb><rt>ししゃ</rt></ruby>。",
+          "hyouki": [
+            "特使"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ごちそうの<ruby><rb>出</rb><rt>で</rt></ruby>る、<ruby><rb>改</rb><rt>あらた</rt></ruby>まった<ruby><rb>夕食</rb><rt>ゆうしょく</rt></ruby>。",
+          "hyouki": [
+            "晩さん"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。",
+          "hyouki": [
+            "トップ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。",
+          "hyouki": [
+            "載せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>にする。",
+          "hyouki": [
+            "載せる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。",
+          "hyouki": [
+            "話し合い"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "すべて<ruby><rb>思</rb><rt>おも</rt></ruby>うようになっていて、<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>不満</rb><rt>ふまん</rt></ruby>のないこと。",
+          "hyouki": [
+            "満足"
+          ]
+        },
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>であること。<ruby><rb>完全</rb><rt>かんぜん</rt></ruby>。",
+          "hyouki": [
+            "満足"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>中身</rb><rt>なかみ</rt></ruby>。",
+          "hyouki": [
+            "内容"
+          ]
+        },
+        {
+          "def": "<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>や<ruby><rb>話</rb><rt>はなし</rt></ruby>によって、<ruby><rb>表</rb><rt>あらわ</rt></ruby>されたもの。",
+          "hyouki": [
+            "内容"
+          ]
+        }
+      ]
+    }
+  }
+}
