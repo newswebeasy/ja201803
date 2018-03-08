@@ -1,0 +1,180 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。",
+          "hyouki": [
+            "メダル"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。",
+          "hyouki": [
+            "パラリンピック"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "おかね。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」のように、だいじな。りっぱな。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "かなもの。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "<ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。",
+          "hyouki": [
+            "金"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>白</rb><rt>しろ</rt></ruby>くて<ruby><rb>美</rb><rt>うつく</rt></ruby>しいつやを<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>金</rb><rt>きん</rt></ruby>より<ruby><rb>軽</rb><rt>かる</rt></ruby>くてかたい。",
+          "hyouki": [
+            "銀"
+          ]
+        },
+        {
+          "def": "ぎん<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "銀"
+          ]
+        },
+        {
+          "def": "おかね。",
+          "hyouki": [
+            "銀"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "銀"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や、<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>える、<ruby><rb>赤</rb><rt>あか</rt></ruby>っぽい<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。あかがね。",
+          "hyouki": [
+            "銅"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "しるし。<ruby><rb>記号</rb><rt>きごう</rt></ruby>。また、しるしをつけること。",
+          "hyouki": [
+            "マーク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目</rb><rt>め</rt></ruby>をつけて<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。",
+          "hyouki": [
+            "マーク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>記録</rb><rt>きろく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ること。",
+          "hyouki": [
+            "マーク"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>が、<ruby><rb>指</rb><rt>ゆび</rt></ruby>の<ruby><rb>先</rb><rt>さき</rt></ruby>でさわって<ruby><rb>読</rb><rt>よ</rt></ruby>む、<ruby><rb>文字</rb><rt>もじ</rt></ruby>の<ruby><rb>代</rb><rt>か</rt></ruby>わりになるしるし。<ruby><rb>紙</rb><rt>かみ</rt></ruby>などの<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>にうき<ruby><rb>出</rb><rt>だ</rt></ruby>させた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "点字"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "かざりのために<ruby><rb>使</rb><rt>つか</rt></ruby>う、きれいな<ruby><rb>色</rb><rt>いろ</rt></ruby>の、はばのせまい<ruby><rb>布</rb><rt>ぬの</rt></ruby>。また、そのかざり。",
+          "hyouki": [
+            "リボン"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。",
+          "hyouki": [
+            "ピンク"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>で<ruby><rb>織</rb><rt>お</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>織物</rb><rt>おりもの</rt></ruby>。きれ。",
+          "hyouki": [
+            "布"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ]
+    }
+  }
+}

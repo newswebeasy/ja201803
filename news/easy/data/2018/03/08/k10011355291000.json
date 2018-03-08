@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011355291000",
+  "news_prearranged_time": "2018-03-08 15:55:00",
+  "title": "鹿児島県と宮崎県の間にある新燃岳　噴火が続く",
+  "title_with_ruby": "<ruby>鹿児島県<rt>かごしまけん</rt></ruby>と<ruby>宮崎県<rt>みやざきけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にある<ruby>新燃岳<rt>しんもえだけ</rt></ruby>　<ruby>噴火<rt>ふんか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く",
+  "outline_with_ruby": "<p><ruby>鹿児島県<rt>かごしまけん</rt></ruby>と<ruby>宮崎県<rt>みやざきけん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>にある<ruby>新燃岳<rt>しんもえだけ</rt></ruby>という<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>火山<rt>かざん</rt></ruby></a>では<ruby>６日<rt>むいか</rt></ruby>から、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>爆発<rt>ばくはつ</rt></ruby></a>するような<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>噴火<rt>ふんか</rt></ruby></a>が<ruby>続<rt>つづ</rt></ruby>いています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180308/../20180308/K10011355291_1803080614_1803080619_01_02.jpg",
+  "news_web_movie_uri": "k10011355291_201803081217_201803081218.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011355291000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011355291000/k10011355291000.html"
+}
