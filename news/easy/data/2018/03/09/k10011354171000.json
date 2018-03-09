@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011354171000",
+  "news_prearranged_time": "2018-03-09 11:30:00",
+  "title": "アマゾンを作ったベゾスさんが世界で１番のお金持ちになる",
+  "title_with_ruby": "アマゾンを<ruby>作<rt>つく</rt></ruby>ったベゾスさんが<ruby>世界<rt>せかい</rt></ruby>で１<ruby>番<rt>ばん</rt></ruby>のお<ruby>金持<rt>かねも</rt></ruby>ちになる",
+  "outline_with_ruby": "<p>アメリカの<ruby>経済<rt>けいざい</rt></ruby>の<ruby>雑誌<rt>ざっし</rt></ruby>「フォーブス」は、<ruby>今年<rt>ことし</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>のお<ruby>金持<rt>かねも</rt></ruby>ちの<a href='javascript:void(0)' class='dicWin' id='id-0000'>ランキング</a>を<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>発表<rt>はっぴょう</rt></ruby></a>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180307/../20180307/K10011354171_1803070713_1803070714_01_02.jpg",
+  "news_web_movie_uri": "k10011354171_201803071111_201803071112.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011354171000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011354171000/k10011354171000.html"
+}

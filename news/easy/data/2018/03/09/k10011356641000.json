@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011356641000",
+  "news_prearranged_time": "2018-03-09 15:50:00",
+  "title": "韓国でピョンチャンパラリンピックが始まる",
+  "title_with_ruby": "<ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンパラリンピックが<ruby>始<rt>はじ</rt></ruby>まる",
+  "outline_with_ruby": "<p><ruby>９日<rt>ここのか</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>でピョンチャンパラリンピックが<ruby>始<rt>はじ</rt></ruby>まりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180309/../20180309/K10011356641_1803082321_1803090409_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011356641000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011356641000/k10011356641000.html"
+}
