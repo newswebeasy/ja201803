@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011356301000",
+  "news_prearranged_time": "2018-03-12 11:30:00",
+  "title": "ロボットで海の底を調べるレース　日本が決勝に進む",
+  "title_with_ruby": "ロボットで<ruby>海<rt>うみ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べるレース　<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>決勝<rt>けっしょう</rt></ruby>に<ruby>進<rt>すす</rt></ruby>む",
+  "outline_with_ruby": "<p>アメリカの「Ｘプライズ」という<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>団体<rt>だんたい</rt></ruby></a>は、<ruby>深<rt>ふか</rt></ruby>い<ruby>海<rt>うみ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>底<rt>そこ</rt></ruby></a>を<a href='javascript:void(0)' class='dicWin' id='id-0000'>ロボット</a>で<ruby>調<rt>しら</rt></ruby>べる<a href='javascript:void(0)' class='dicWin' id='id-0002'>レース</a>を<ruby>行<rt>おこ</rt></ruby>なっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180308/../20180308/K10011356301_1803081928_1803081938_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011356301000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011356301000/k10011356301000.html"
+}
