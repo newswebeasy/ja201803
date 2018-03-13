@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011360151000/k10011360151000.html",
+      "title": "村上春樹さんの小説「騎士団長殺し」を中国で売り始める",
+      "time": "NEWSWEB EASY 3月13日",
+      "datetime": "2018-03-13"
+    }
+  ],
   "word": [],
   "news_id": "k10011360151000",
   "yyyy": "2018",

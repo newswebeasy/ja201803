@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。",
+          "hyouki": [
+            "新幹線"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。",
+          "hyouki": [
+            "車両"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部分"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>。<ruby><rb>照明</rb><rt>しょうめい</rt></ruby>。",
+          "hyouki": [
+            "ライト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>明</rb><rt>あか</rt></ruby>るいこと。",
+          "hyouki": [
+            "ライト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>軽</rb><rt>かる</rt></ruby>いこと。",
+          "hyouki": [
+            "ライト"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>が<ruby><rb>流</rb><rt>なが</rt></ruby>れると、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>さずに<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>電力消費</rb><rt>でんりょくしょうひ</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なく、<ruby><rb>寿命</rb><rt>じゅみょう</rt></ruby>が<ruby><rb>長</rb><rt>なが</rt></ruby>いため、<ruby><rb>白熱電球</rb><rt>はくねつでんきゅう</rt></ruby>や<ruby><rb>蛍光灯</rb><rt>けいこうとう</rt></ruby>にかわる<ruby><rb>光源</rb><rt>こうげん</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "LED"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>緊張</rb><rt>きんちょう</rt></ruby>しないで、のんびりと<ruby><rb>楽</rb><rt>らく</rt></ruby>にすること。",
+          "hyouki": [
+            "リラックス"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>電気器具</rb><rt>でんききぐ</rt></ruby>に<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>くために、かべや<ruby><rb>柱</rb><rt>はしら</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>りつけた、さしこみ<ruby><rb>口</rb><rt>ぐち</rt></ruby>。",
+          "hyouki": [
+            "コンセント"
+          ]
+        }
+      ]
+    }
+  }
+}

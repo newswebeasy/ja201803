@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "スポーツや<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>演劇</rb><rt>えんげき</rt></ruby>などが、<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>に<ruby><rb>好</rb><rt>す</rt></ruby>きな<ruby><rb>人</rb><rt>ひと</rt></ruby>。または、ある<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>や、<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>などを<ruby><rb>熱心</rb><rt>ねっしん</rt></ruby>に<ruby><rb>応援</rb><rt>おうえん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。フアン。",
+          "hyouki": [
+            "ファン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>扇風機</rb><rt>せんぷうき</rt></ruby>。<ruby><rb>送風機</rb><rt>そうふうき</rt></ruby>。<ruby><rb>換気扇</rb><rt>かんきせん</rt></ruby>。",
+          "hyouki": [
+            "ファン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "（<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を）かわいがる。かわいく<ruby><rb>思</rb><rt>おも</rt></ruby>う。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。",
+          "hyouki": [
+            "愛"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を）<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>にする。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。",
+          "hyouki": [
+            "愛"
+          ]
+        },
+        {
+          "def": "<ruby><rb>好</rb><rt>この</rt></ruby>む。おもしろいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "愛"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>区分</rb><rt>くわ</rt></ruby>け。<ruby><rb>区分</rb><rt>くわ</rt></ruby>けした<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>本</rb><rt>ほん</rt></ruby>や<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "部"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ]
+    }
+  }
+}
