@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011365101000",
+  "news_prearranged_time": "2018-03-15 16:50:00",
+  "title": "暖かい日が続いて桜が咲く日が早くなりそう",
+  "title_with_ruby": "<ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>が<ruby>早<rt>はや</rt></ruby>くなりそう",
+  "outline_with_ruby": "<p><ruby>天気予報<rt>てんきよほう</rt></ruby>を<ruby>出<rt>だ</rt></ruby>している<ruby>会社<rt>かいしゃ</rt></ruby>などは<ruby>毎年<rt>まいとし</rt></ruby>、ソメイヨシノという<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>桜<rt>さくら</rt></ruby></a>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く<ruby>日<rt>ひ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>予想<rt>よそう</rt></ruby></a>を<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>発表<rt>はっぴょう</rt></ruby></a>しています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180314/../20180314/K10011365101_1803141805_1803141806_01_03.jpg",
+  "news_web_movie_uri": "k10011365101_201803141805_201803141806.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011365101000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011365101000/k10011365101000.html"
+}

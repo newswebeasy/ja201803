@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。",
+          "hyouki": [
+            "宇宙"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "あることに、<ruby><rb>特</rb><rt>とく</rt></ruby>にくわしい<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "博士"
+          ]
+        },
+        {
+          "def": "<ruby><rb>学問</rb><rt>がくもん</rt></ruby>にすぐれた<ruby><rb>人</rb><rt>ひと</rt></ruby>にあたえられる<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>正式</rb><rt>せいしき</rt></ruby>には「はくし」という。",
+          "hyouki": [
+            "博士"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>よりも<ruby><rb>巨大</rb><rt>きょだい</rt></ruby>な<ruby><rb>星</rb><rt>ほし</rt></ruby>が<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>んでできた<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>引力</rb><rt>いんりょく</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>ち、あらゆる<ruby><rb>物</rb><rt>もの</rt></ruby>をのみこみ、<ruby><rb>光</rb><rt>ひかり</rt></ruby>さえもすいこむので、<ruby><rb>黒</rb><rt>くろ</rt></ruby>い<ruby><rb>穴</rb><rt>あな</rt></ruby>のように<ruby><rb>見</rb><rt>み</rt></ruby>える。",
+          "hyouki": [
+            "ブラックホール"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>や<ruby><rb>運動</rb><rt>うんどう</rt></ruby>、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>・<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>電気</rb><rt>でんき</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>のはたらきなどについて<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>学問</rb><rt>がくもん</rt></ruby>。",
+          "hyouki": [
+            "物理学"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。",
+          "hyouki": [
+            "車椅子"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ある<ruby><rb>問題</rb><rt>もんだい</rt></ruby>についての<ruby><rb>考</rb><rt>かんが</rt></ruby>えや、<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>した<ruby><rb>結果</rb><rt>けっか</rt></ruby>を、<ruby><rb>筋道</rb><rt>すじみち</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てて<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。",
+          "hyouki": [
+            "論文"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>傷</rb><rt>きず</rt></ruby>のところを、<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>ったりして、<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>すること。",
+          "hyouki": [
+            "手術"
+          ]
+        }
+      ]
+    }
+  }
+}
