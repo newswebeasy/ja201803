@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>進</rb><rt>すす</rt></ruby>めるために、かい・ろ・オールなどを<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "漕ぐ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "漕ぐ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>森林</rb><rt>しんりん</rt></ruby>や<ruby><rb>山野</rb><rt>さんや</rt></ruby>にすむ、<ruby><rb>草食</rb><rt>そうしょく</rt></ruby>のおとなしいけもの。<ruby><rb>足</rb><rt>あし</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く、<ruby><rb>雄</rb><rt>おす</rt></ruby>は<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>枝</rb><rt>えだ</rt></ruby>のような<ruby><rb>角</rb><rt>つの</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>世界各地</rb><rt>せかいかくち</rt></ruby>にいる。",
+          "hyouki": [
+            "鹿"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>酢</rb><rt>す</rt></ruby>で<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけたご<ruby><rb>飯</rb><rt>はん</rt></ruby>に、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や、<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などをのせたり、<ruby><rb>混</rb><rt>ま</rt></ruby>ぜたりした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。にぎりずし・<ruby><rb>巻</rb><rt>ま</rt></ruby>きずし・ちらしずしなど。",
+          "hyouki": [
+            "鮨・",
+            "鮓・",
+            "寿司"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>中国風</rb><rt>ちゅうごくふう</rt></ruby>のめんをゆで、スープをかけた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>中華</rb><rt>ちゅうか</rt></ruby>そば。",
+          "hyouki": [
+            "ラーメン"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "すもうをとることを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。すもうとり。",
+          "hyouki": [
+            "力士"
+          ]
+        }
+      ]
+    }
+  }
+}

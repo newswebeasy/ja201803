@@ -1,0 +1,22 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>雪</rb><rt>ゆき</rt></ruby>を<ruby><rb>固</rb><rt>かた</rt></ruby>めて、だるまの<ruby><rb>形</rb><rt>かたち</rt></ruby>にしたもの。",
+          "hyouki": [
+            "雪だるま"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>辺</rb><rt>あた</rt></ruby>り。",
+          "hyouki": [
+            "中頃"
+          ]
+        }
+      ]
+    }
+  }
+}

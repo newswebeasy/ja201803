@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>申</rb><rt>もう</rt></ruby>しこむこと。",
+          "hyouki": [
+            "申し込み"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "申し込む"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>で<ruby><rb>夜</rb><rt>よる</rt></ruby>を<ruby><rb>過</rb><rt>す</rt></ruby>ごさせる。",
+          "hyouki": [
+            "泊める"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。",
+          "hyouki": [
+            "許可"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "申し込む"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>事件</rb><rt>じけん</rt></ruby>や<ruby><rb>問題</rb><rt>もんだい</rt></ruby>がうまくかたづくこと。",
+          "hyouki": [
+            "解決"
+          ]
+        }
+      ]
+    }
+  }
+}

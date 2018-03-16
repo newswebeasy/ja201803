@@ -1,0 +1,22 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>歩</rb><rt>ある</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>に<ruby><rb>道路</rb><rt>どうろ</rt></ruby>を<ruby><rb>横切</rb><rt>よこぎ</rt></ruby>れるように<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>橋</rb><rt>はし</rt></ruby>。",
+          "hyouki": [
+            "歩道橋"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>火事</rb><rt>かじ</rt></ruby>を<ruby><rb>消</rb><rt>け</rt></ruby>したり、<ruby><rb>火災</rb><rt>かさい</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだりすること。",
+          "hyouki": [
+            "消防"
+          ]
+        }
+      ]
+    }
+  }
+}

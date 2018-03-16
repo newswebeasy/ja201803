@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>森林</rb><rt>しんりん</rt></ruby>にすみ、<ruby><rb>木登</rb><rt>きのぼ</rt></ruby>りがうまく、<ruby><rb>群</rb><rt>む</rt></ruby>れを<ruby><rb>作</rb><rt>つく</rt></ruby>って<ruby><rb>暮</rb><rt>く</rt></ruby>らしている<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。チンパンジー・ゴリラ・オランウータン・テナガザルなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>にはニホンザルがいる。",
+          "hyouki": [
+            "猿"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>後</rb><rt>うし</rt></ruby>ろに<ruby><rb>入</rb><rt>はい</rt></ruby>って<ruby><rb>見</rb><rt>み</rt></ruby>えなくなる。",
+          "hyouki": [
+            "隠れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につかないようにする。",
+          "hyouki": [
+            "隠れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>名前</rb><rt>なまえ</rt></ruby>が<ruby><rb>知</rb><rt>し</rt></ruby>られていない。",
+          "hyouki": [
+            "隠れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>で、<ruby><rb>首</rb><rt>くび</rt></ruby>と<ruby><rb>腹</rb><rt>はら</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "胸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>。<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>。",
+          "hyouki": [
+            "胸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心臓</rb><rt>しんぞう</rt></ruby>。",
+          "hyouki": [
+            "胸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>肺</rb><rt>はい</rt></ruby>。",
+          "hyouki": [
+            "胸"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ちち。",
+          "hyouki": [
+            "乳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>ちゃん。",
+          "hyouki": [
+            "乳"
+          ]
+        },
+        {
+          "def": "ちちのような<ruby><rb>液体</rb><rt>えきたい</rt></ruby>。",
+          "hyouki": [
+            "乳"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ]
+    }
+  }
+}
