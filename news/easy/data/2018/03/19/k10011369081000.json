@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011369081000",
+  "news_prearranged_time": "2018-03-19 16:20:00",
+  "title": "東京でいつもの年より９日早く桜が咲き始める",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>でいつもの<ruby>年<rt>とし</rt></ruby>より<ruby>９日<rt>ここのか</rt></ruby><ruby>早<rt>はや</rt></ruby>く<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>める",
+  "outline_with_ruby": "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は１７<ruby>日<rt>にち</rt></ruby>、「<ruby>東京<rt>とうきょう</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>桜<rt>さくら</rt></ruby></a>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>きました」と<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>発表<rt>はっぴょう</rt></ruby></a>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180317/../20180317/K10011369081_1803171453_1803171454_01_02.jpg",
+  "news_web_movie_uri": "k10011369081_201803171857_201803171918.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011369081000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011369081000/k10011369081000.html"
+}

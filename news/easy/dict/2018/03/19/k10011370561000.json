@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。",
+          "hyouki": [
+            "選挙"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "投票"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>のふだ。",
+          "hyouki": [
+            "票"
+          ]
+        },
+        {
+          "def": "<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>で<ruby><rb>投票</rb><rt>とうひょう</rt></ruby>した<ruby><rb>紙</rb><rt>かみ</rt></ruby>。<ruby><rb>投票用紙</rb><rt>とうひょうようし</rt></ruby>。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "票"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まれる、<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "広場"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものごとが<ruby><rb>思</rb><rt>おも</rt></ruby>いどおりにうまくいくこと。",
+          "hyouki": [
+            "成功"
+          ]
+        },
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>ること。",
+          "hyouki": [
+            "成功"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「デモンストレーション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>認</rb><rt>みと</rt></ruby>めさせようとして、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いを<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。また、そのための<ruby><rb>行進</rb><rt>こうしん</rt></ruby>。",
+          "hyouki": [
+            "デモ"
+          ]
+        }
+      ]
+    }
+  }
+}

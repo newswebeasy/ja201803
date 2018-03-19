@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。",
+          "hyouki": [
+            "幸せ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。",
+          "hyouki": [
+            "ランキング"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地域"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せ。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。",
+          "hyouki": [
+            "福祉"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>要点</rb><rt>ようてん</rt></ruby>。",
+          "hyouki": [
+            "ポイント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>得点</rb><rt>とくてん</rt></ruby>。<ruby><rb>点数</rb><rt>てんすう</rt></ruby>。",
+          "hyouki": [
+            "ポイント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>線路</rb><rt>せんろ</rt></ruby>の<ruby><rb>分</rb><rt>わ</rt></ruby>かれ<ruby><rb>目</rb><rt>め</rt></ruby>で、<ruby><rb>車両</rb><rt>しゃりょう</rt></ruby>を<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れかえる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>転</rb><rt>てん</rt></ruby>てつ<ruby><rb>機</rb><rt>き</rt></ruby>。",
+          "hyouki": [
+            "ポイント"
+          ]
+        }
+      ]
+    }
+  }
+}

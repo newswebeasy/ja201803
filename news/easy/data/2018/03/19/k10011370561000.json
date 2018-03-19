@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011370561000",
+  "news_prearranged_time": "2018-03-19 16:20:00",
+  "title": "ロシア　次の大統領はプーチンさんに決まる",
+  "title_with_ruby": "ロシア　<ruby>次<rt>つぎ</rt></ruby>の<ruby>大統領<rt>だいとうりょう</rt></ruby>はプーチンさんに<ruby>決<rt>き</rt></ruby>まる",
+  "outline_with_ruby": "<p>ロシアで１８<ruby>日<rt>にち</rt></ruby>、<ruby>次<rt>つぎ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大統領<rt>だいとうりょう</rt></ruby></a>を<ruby>選<rt>えら</rt></ruby>ぶ<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>選挙<rt>せんきょ</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>投票<rt>とうひょう</rt></ruby></a>がありました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180319/../20180319/K10011370561_1803190824_1803190839_01_03.jpg",
+  "news_web_movie_uri": "k10011370561_201803191131_201803191232.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011370561000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011370561000/k10011370561000.html"
+}
