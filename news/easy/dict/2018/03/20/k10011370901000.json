@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>寺</rb><rt>てら</rt></ruby>で、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>や<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>骨</rb><rt>ほね</rt></ruby>をとむらうために<ruby><rb>建</rb><rt>た</rt></ruby>てた<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "塔"
+          ]
+        },
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>くそびえる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。タワー。",
+          "hyouki": [
+            "塔"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>博覧会</rb><rt>はくらんかい</rt></ruby>。<ruby><rb>万国博</rb><rt>ばんこくはく</rt></ruby>。<ruby><rb>万博</rb><rt>ばんぱく</rt></ruby>。",
+          "hyouki": [
+            "万国博覧会"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>音楽家</rb><rt>おんがくか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>など。",
+          "hyouki": [
+            "芸術家"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。",
+          "hyouki": [
+            "デザイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。",
+          "hyouki": [
+            "デザイン"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>が、<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>時間</rb><rt>じかん</rt></ruby>をかけて、<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>な<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>仕組</rb><rt>しく</rt></ruby>みから<ruby><rb>複雑</rb><rt>ふくざつ</rt></ruby>で<ruby><rb>高等</rb><rt>こうとう</rt></ruby>なものへ<ruby><rb>変</rb><rt>か</rt></ruby>わっていくこと。",
+          "hyouki": [
+            "進化"
+          ]
+        },
+        {
+          "def": "ものごとが、しだいによいほうへ<ruby><rb>進</rb><rt>すす</rt></ruby>んでいくこと。",
+          "hyouki": [
+            "進化"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちや<ruby><rb>考</rb><rt>かんが</rt></ruby>えなどを、ことばや<ruby><rb>表情</rb><rt>ひょうじょう</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>したり、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などにしたりする。",
+          "hyouki": [
+            "表す"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>などで、<ruby><rb>作者</rb><rt>さくしゃ</rt></ruby>が<ruby><rb>創造</rb><rt>そうぞう</rt></ruby>したもの。",
+          "hyouki": [
+            "作品"
+          ]
+        }
+      ]
+    }
+  }
+}

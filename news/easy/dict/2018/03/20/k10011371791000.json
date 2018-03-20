@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "自動"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "はじきとばす。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にわたす<ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>字</rb><rt>じ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くとき、<ruby><rb>線</rb><rt>せん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりをはらい<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>められていること。<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>習慣</rb><rt>しゅうかん</rt></ruby>。",
+          "hyouki": [
+            "決まり"
+          ]
+        },
+        {
+          "def": "しめくくり。おさまり。",
+          "hyouki": [
+            "決まり"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ]
+    }
+  }
+}

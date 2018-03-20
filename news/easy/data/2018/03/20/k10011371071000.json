@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011371071000",
+  "news_prearranged_time": "2018-03-20 16:15:00",
+  "title": "ピョンチャンパラリンピックが終わって選手が日本に戻る",
+  "title_with_ruby": "ピョンチャンパラリンピックが<ruby>終<rt>お</rt></ruby>わって<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る",
+  "outline_with_ruby": "<p>１８<ruby>日<rt>にち</rt></ruby>に<ruby>終<rt>お</rt></ruby>わったピョンチャンパラリンピックに<ruby>出<rt>で</rt></ruby>た<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>選手<rt>せんしゅ</rt></ruby></a>たちが<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ってきました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180319/../20180319/K10011371071_1803191931_1803191937_01_03.jpg",
+  "news_web_movie_uri": "k10011371071_201803191931_201803191937.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011371071000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011371071000/k10011371071000.html"
+}

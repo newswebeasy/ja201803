@@ -1,0 +1,148 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。",
+          "hyouki": [
+            "スキー"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。",
+          "hyouki": [
+            "スキー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ばしょ。",
+          "hyouki": [
+            "場"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>などの<ruby><rb>上</rb><rt>あ</rt></ruby>げ<ruby><rb>下</rb><rt>お</rt></ruby>ろしに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>小</rb><rt>ちい</rt></ruby>さなエレベーター。<ruby><rb>昇降機</rb><rt>しょうこうき</rt></ruby>。",
+          "hyouki": [
+            "リフト"
+          ]
+        },
+        {
+          "def": "スキー<ruby><rb>場</rb><rt>じょう</rt></ruby>などで、<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "リフト"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。",
+          "hyouki": [
+            "突然"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。",
+          "hyouki": [
+            "スピード"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>き。<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>。",
+          "hyouki": [
+            "方向"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目当</rb><rt>めあ</rt></ruby>て。<ruby><rb>方針</rb><rt>ほうしん</rt></ruby>。",
+          "hyouki": [
+            "方向"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>から<ruby><rb>飛</rb><rt>と</rt></ruby>んで<ruby><rb>降</rb><rt>お</rt></ruby>りる。",
+          "hyouki": [
+            "飛び降りる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>いているものから<ruby><rb>飛</rb><rt>と</rt></ruby>んで<ruby><rb>降</rb><rt>お</rt></ruby>りる。",
+          "hyouki": [
+            "飛び降りる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}
