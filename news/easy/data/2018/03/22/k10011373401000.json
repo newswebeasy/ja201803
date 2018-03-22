@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011373401000",
+  "news_prearranged_time": "2018-03-22 17:10:00",
+  "title": "地震の被害を受けた東北の高校生がアメリカでオペラに出る",
+  "title_with_ruby": "<ruby>地震<rt>じしん</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>東北<rt>とうほく</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>がアメリカでオペラに<ruby>出<rt>で</rt></ruby>る",
+  "outline_with_ruby": "<p>アメリカのニューヨークにあるリンカーンセンターで<ruby>２０日<rt>はつか</rt></ruby>、２０１１<ruby>年<rt>ねん</rt></ruby>の<ruby>地震<rt>じしん</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>被害<rt>ひがい</rt></ruby></a>を<ruby>受<rt>う</rt></ruby>けた<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>東北<rt>とうほく</rt></ruby></a>の<ruby>高校生<rt>こうこうせい</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0002'>オペラ</a>に<ruby>出<rt>で</rt></ruby>ました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180321/../20180321/K10011373401_1803211309_1803211310_01_03.jpg",
+  "news_web_movie_uri": "k10011373401_201803211309_201803211310.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011373401000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011373401000/k10011373401000.html"
+}

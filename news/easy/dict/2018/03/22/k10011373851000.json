@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>地震</rb><rt>じしん</rt></ruby>のときに<ruby><rb>感</rb><rt>かん</rt></ruby>じるゆれの<ruby><rb>度合</rb><rt>どあ</rt></ruby>い。<ruby><rb>計測地震計</rb><rt>けいそくじしんけい</rt></ruby>によって<ruby><rb>測</rb><rt>はか</rt></ruby>られ、<ruby><rb>次</rb><rt>つぎ</rt></ruby>の１０<ruby><rb>段階</rb><rt>だんかい</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けられている。",
+          "hyouki": [
+            "震度"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "よわい。",
+          "hyouki": [
+            "弱"
+          ]
+        },
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>が<ruby><rb>若</rb><rt>わか</rt></ruby>い。",
+          "hyouki": [
+            "弱"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>数</rb><rt>かず</rt></ruby>より<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>足</rb><rt>た</rt></ruby>りないことを<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "弱"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって、こうなるだろうと、<ruby><rb>見当</rb><rt>けんとう</rt></ruby>をつけること。",
+          "hyouki": [
+            "予測"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>本州</rb><rt>ほんしゅう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>ほどにある、<ruby><rb>太平洋側</rb><rt>たいへいようがわ</rt></ruby>の<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>・<ruby><rb>神奈川</rb><rt>かながわ</rt></ruby>・<ruby><rb>埼玉</rb><rt>さいたま</rt></ruby>・<ruby><rb>千葉</rb><rt>ちば</rt></ruby>・<ruby><rb>群馬</rb><rt>ぐんま</rt></ruby>・<ruby><rb>栃木</rb><rt>とちぎ</rt></ruby>・<ruby><rb>茨城</rb><rt>いばらき</rt></ruby>の<ruby><rb>一都六県</rb><rt>いっとろっけん</rt></ruby>がある。",
+          "hyouki": [
+            "関東地方"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ]
+    }
+  }
+}

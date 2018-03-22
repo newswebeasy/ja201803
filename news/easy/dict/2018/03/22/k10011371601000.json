@@ -1,0 +1,78 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>健康</rb><rt>けんこう</rt></ruby>な<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るための<ruby><rb>運動</rb><rt>うんどう</rt></ruby>や<ruby><rb>教育</rb><rt>きょういく</rt></ruby>。",
+          "hyouki": [
+            "体育"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」を<ruby><rb>教</rb><rt>おし</rt></ruby>える<ruby><rb>教科</rb><rt>きょうか</rt></ruby>。",
+          "hyouki": [
+            "体育"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>四年</rb><rt>よねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。",
+          "hyouki": [
+            "パラリンピック"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "わざや<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を、<ruby><rb>比</rb><rt>くら</rt></ruby>べ<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>特</rb><rt>とく</rt></ruby>にスポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>うこと。",
+          "hyouki": [
+            "競技"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>丸</rb><rt>まる</rt></ruby>いものを、ころころと<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "転がす"
+          ]
+        },
+        {
+          "def": "たおす。<ruby><rb>転</rb><rt>ころ</rt></ruby>ばす。",
+          "hyouki": [
+            "転がす"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>競走</rb><rt>きょうそう</rt></ruby>で、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>決勝点</rb><rt>けっしょうてん</rt></ruby>。",
+          "hyouki": [
+            "ゴール"
+          ]
+        },
+        {
+          "def": "バスケットボール・サッカーなどで、ボールを<ruby><rb>入</rb><rt>い</rt></ruby>れると<ruby><rb>点</rb><rt>てん</rt></ruby>になる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そこにボールを<ruby><rb>入</rb><rt>い</rt></ruby>れること。",
+          "hyouki": [
+            "ゴール"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>の<ruby><rb>最後</rb><rt>さいご</rt></ruby>の<ruby><rb>点</rb><rt>てん</rt></ruby>。",
+          "hyouki": [
+            "ゴール"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>六人</rb><rt>ろくにん</rt></ruby>、または<ruby><rb>九人</rb><rt>くにん</rt></ruby>ずつのチームが、ネットをはさんで、ボールを<ruby><rb>落</rb><rt>お</rt></ruby>とさないように<ruby><rb>手</rb><rt>て</rt></ruby>で<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "バレー"
+          ]
+        }
+      ]
+    }
+  }
+}
