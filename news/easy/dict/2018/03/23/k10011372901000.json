@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>煮</rb><rt>に</rt></ruby>たり<ruby><rb>焼</rb><rt>や</rt></ruby>いたりするための、<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>運</rb><rt>はこ</rt></ruby>びができる<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "こんろ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>鉄</rb><rt>てつ</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>。",
+          "hyouki": [
+            "鉄板"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>気体</rb><rt>きたい</rt></ruby>をおし<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>めて<ruby><rb>入</rb><rt>い</rt></ruby>れてある、<ruby><rb>鋼鉄</rb><rt>こうてつ</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った、<ruby><rb>筒形</rb><rt>つつがた</rt></ruby>の<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "ボンベ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく<ruby><rb>破</rb><rt>やぶ</rt></ruby>れること。また、さけること。",
+          "hyouki": [
+            "破裂"
+          ]
+        },
+        {
+          "def": "<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>いがつかず、だめになること。",
+          "hyouki": [
+            "破裂"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>や、<ruby><rb>熱</rb><rt>あつ</rt></ruby>いお<ruby><rb>湯</rb><rt>ゆ</rt></ruby>などにふれて、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>がただれること。",
+          "hyouki": [
+            "火傷"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "製品"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>煮</rb><rt>に</rt></ruby>たり<ruby><rb>焼</rb><rt>や</rt></ruby>いたりするための、<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>運</rb><rt>はこ</rt></ruby>びができる<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "こんろ"
+          ]
+        }
+      ]
+    }
+  }
+}
