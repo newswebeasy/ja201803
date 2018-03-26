@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "商品"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。",
+          "hyouki": [
+            "キャラクター"
+          ]
+        },
+        {
+          "def": "まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。",
+          "hyouki": [
+            "キャラクター"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>したり、ものを<ruby><rb>書</rb><rt>か</rt></ruby>いたりするときに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>用具</rb><rt>ようぐ</rt></ruby>。<ruby><rb>紙</rb><rt>かみ</rt></ruby>・<ruby><rb>鉛筆</rb><rt>えんぴつ</rt></ruby>・ノートなど。<ruby><rb>文具</rb><rt>ぶんぐ</rt></ruby>。",
+          "hyouki": [
+            "文房具"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>味方</rb><rt>みかた</rt></ruby>を、はげますこと。",
+          "hyouki": [
+            "応援"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>をかして<ruby><rb>助</rb><rt>たす</rt></ruby>けること。",
+          "hyouki": [
+            "応援"
+          ]
+        }
+      ]
+    }
+  }
+}

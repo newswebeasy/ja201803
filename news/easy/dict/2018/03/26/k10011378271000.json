@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>石</rb><rt>いし</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きなもの。<ruby><rb>岩石</rb><rt>がんせき</rt></ruby>。",
+          "hyouki": [
+            "岩"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "いそぐ。いそぎの。",
+          "hyouki": [
+            "急"
+          ]
+        },
+        {
+          "def": "ものごとが<ruby><rb>速</rb><rt>はや</rt></ruby>い。",
+          "hyouki": [
+            "急"
+          ]
+        },
+        {
+          "def": "<ruby><rb>突然</rb><rt>とつぜん</rt></ruby>。また、<ruby><rb>突然</rb><rt>とつぜん</rt></ruby>の<ruby><rb>危機</rb><rt>きき</rt></ruby>。",
+          "hyouki": [
+            "急"
+          ]
+        },
+        {
+          "def": "けわしいようす。",
+          "hyouki": [
+            "急"
+          ]
+        },
+        {
+          "def": "だいじな。",
+          "hyouki": [
+            "急"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがを<ruby><rb>治</rb><rt>なお</rt></ruby>すことを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>とする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>。",
+          "hyouki": [
+            "医師"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "あさ<ruby><rb>糸</rb><rt>いと</rt></ruby>や、<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などを<ruby><rb>太</rb><rt>ふと</rt></ruby>くよった<ruby><rb>丈夫</rb><rt>じょうぶ</rt></ruby>なつな。",
+          "hyouki": [
+            "ロープ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "はなれないように、ほかのものに<ruby><rb>結</rb><rt>むす</rt></ruby>びつける。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        },
+        {
+          "def": "はなれているものを、<ruby><rb>結</rb><rt>むす</rt></ruby>び<ruby><rb>合</rb><rt>あ</rt></ruby>わせてひと<ruby><rb>続</rb><rt>つづ</rt></ruby>きのものにする。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>続</rb><rt>つづ</rt></ruby>くようにする。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        }
+      ]
+    }
+  }
+}

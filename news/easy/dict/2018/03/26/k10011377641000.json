@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>何台</rb><rt>なんだい</rt></ruby>もつながっている、<ruby><rb>客車</rb><rt>きゃくしゃ</rt></ruby>や<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>。",
+          "hyouki": [
+            "列車"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>石炭</rb><rt>せきたん</rt></ruby>を<ruby><rb>燃</rb><rt>も</rt></ruby>やして、<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>にかえ、その<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>でピストンを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>みの<ruby><rb>車</rb><rt>くるま</rt></ruby>。<ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>。<ruby><rb>SL</rb><rt>エスエル</rt></ruby>。",
+          "hyouki": [
+            "蒸気機関車"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>駅</rb><rt>えき</rt></ruby>で<ruby><rb>乗客</rb><rt>じょうきゃく</rt></ruby>が<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>降</rb><rt>お</rt></ruby>りする<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。ホーム。",
+          "hyouki": [
+            "プラットホーム"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "あいだ。へだたり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "ひろがり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>関係</rb><rt>かんけい</rt></ruby>をもったまとまり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>のようすをうかがう。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "へや。へやを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>尺貫法</rb><rt>しゃっかんほう</rt></ruby>で、<ruby><rb>長</rb><rt>なが</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>一間</rb><rt>いっけん</rt></ruby>は<ruby><rb>約</rb><rt>やく</rt></ruby>一・八メートル。",
+          "hyouki": [
+            "間"
+          ]
+        }
+      ]
+    }
+  }
+}
