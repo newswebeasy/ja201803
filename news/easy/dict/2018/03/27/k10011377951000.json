@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>・ピストルなど、<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>をうつ<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。",
+          "hyouki": [
+            "銃"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "（<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。",
+          "hyouki": [
+            "撃つ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「デモンストレーション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>認</rb><rt>みと</rt></ruby>めさせようとして、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>自分</rb><rt>じぶん</rt></ruby>たちの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いを<ruby><rb>示</rb><rt>しめ</rt></ruby>すこと。また、そのための<ruby><rb>行進</rb><rt>こうしん</rt></ruby>。",
+          "hyouki": [
+            "デモ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>でする<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>話</rb><rt>はなし</rt></ruby>や<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>。",
+          "hyouki": [
+            "スピーチ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>人類</rb><rt>じんるい</rt></ruby>を、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>、<ruby><rb>体</rb><rt>からだ</rt></ruby>つきなどの<ruby><rb>特徴</rb><rt>とくちょう</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>。",
+          "hyouki": [
+            "人種"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あるものとほかのものとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>差</rb><rt>さ</rt></ruby>をつけて、あつかい<ruby><rb>方</rb><rt>かた</rt></ruby>をちがわせること。",
+          "hyouki": [
+            "差別"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ]
+    }
+  }
+}

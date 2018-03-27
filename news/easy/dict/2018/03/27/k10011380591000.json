@@ -1,0 +1,108 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>として<ruby><rb>外国</rb><rt>がいこく</rt></ruby>にいて、その<ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>外交</rb><rt>がいこう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役人</rb><rt>やくにん</rt></ruby>。<ruby><rb>大使</rb><rt>たいし</rt></ruby>・<ruby><rb>公使</rb><rt>こうし</rt></ruby>などがある。",
+          "hyouki": [
+            "外交官"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "かくして、<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせないこと。かくしごと。ないしょ。",
+          "hyouki": [
+            "秘密"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>器械</rb><rt>きかい</rt></ruby>や<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。",
+          "hyouki": [
+            "兵器"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>のあるもの。<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>傷</rb><rt>きず</rt></ruby>つけるもの。",
+          "hyouki": [
+            "毒"
+          ]
+        }
+      ]
+    }
+  }
+}

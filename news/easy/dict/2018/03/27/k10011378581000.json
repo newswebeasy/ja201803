@@ -1,0 +1,116 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "つち。<ruby><rb>大地</rb><rt>だいち</rt></ruby>。",
+          "hyouki": [
+            "土地"
+          ]
+        },
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。",
+          "hyouki": [
+            "土地"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。",
+          "hyouki": [
+            "土地"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>さ・<ruby><rb>高</rb><rt>たか</rt></ruby>さ・<ruby><rb>深</rb><rt>ふか</rt></ruby>さ・<ruby><rb>広</rb><rt>ひろ</rt></ruby>さなどを<ruby><rb>調</rb><rt>しら</rt></ruby>べる。",
+          "hyouki": [
+            "測る"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちがい。へだたり。",
+          "hyouki": [
+            "差"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>数</rb><rt>かず</rt></ruby>からほかの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>残</rb><rt>のこ</rt></ruby>りの<ruby><rb>数</rb><rt>かず</rt></ruby>。",
+          "hyouki": [
+            "差"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>土地</rb><rt>とち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>土</rb><rt>つち</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>。<ruby><rb>地</rb><rt>じ</rt></ruby>べた。",
+          "hyouki": [
+            "地面"
+          ]
+        },
+        {
+          "def": "<ruby><rb>土地</rb><rt>とち</rt></ruby>。<ruby><rb>地所</rb><rt>じしょ</rt></ruby>。",
+          "hyouki": [
+            "地面"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国土</rb><rt>こくど</rt></ruby>の<ruby><rb>測量</rb><rt>そくりょう</rt></ruby>をし、<ruby><rb>地図</rb><rt>ちず</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "国土地理院"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。",
+          "hyouki": [
+            "人工衛星"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。",
+          "hyouki": [
+            "災害"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>正</rb><rt>ただ</rt></ruby>しくてまちがいのないこと。",
+          "hyouki": [
+            "正確"
+          ]
+        }
+      ]
+    }
+  }
+}
