@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011378511000",
+  "news_prearranged_time": "2018-03-28 11:30:00",
+  "title": "オリンピックのメダルを作るために携帯電話をもっと集めたい",
+  "title_with_ruby": "オリンピックのメダルを<ruby>作<rt>つく</rt></ruby>るために<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>をもっと<ruby>集<rt>あつ</rt></ruby>めたい",
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0002'>パラリンピック</a>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180326/../20180326/K10011378511_1803260520_1803260523_01_03.jpg",
+  "news_web_movie_uri": "k10011378511_201803260520_201803260522.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011378511000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011378511000/k10011378511000.html"
+}

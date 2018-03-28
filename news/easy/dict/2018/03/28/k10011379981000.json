@@ -1,0 +1,108 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>小説</rb><rt>しょうせつ</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>・<ruby><rb>童話</rb><rt>どうわ</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "作家"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。",
+          "hyouki": [
+            "画家"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。",
+          "hyouki": [
+            "贈る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。",
+          "hyouki": [
+            "贈る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ほめる。たたえる。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "ほうび。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "<ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。",
+          "hyouki": [
+            "賞"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>魔術</rb><rt>まじゅつ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>女</rb><rt>おんな</rt></ruby>。",
+          "hyouki": [
+            "魔女"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪魔</rb><rt>あくま</rt></ruby>のような<ruby><rb>女</rb><rt>おんな</rt></ruby>。ふしぎな<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>女</rb><rt>おんな</rt></ruby>。",
+          "hyouki": [
+            "魔女"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>指図</rb><rt>さしず</rt></ruby>や<ruby><rb>取</rb><rt>と</rt></ruby>りしまりなどをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "監督"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。",
+          "hyouki": [
+            "アニメーション"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>きつける<ruby><rb>力</rb><rt>ちから</rt></ruby>。",
+          "hyouki": [
+            "魅力"
+          ]
+        }
+      ]
+    }
+  }
+}
