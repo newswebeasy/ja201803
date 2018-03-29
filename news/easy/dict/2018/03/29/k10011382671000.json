@@ -1,0 +1,140 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "スペースシャトルなどで<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby><ruby><rb>旅行</rb><rt>りょこう</rt></ruby>や、<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>での<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>の<ruby><rb>基地</rb><rt>きち</rt></ruby>として、その<ruby><rb>中</rb><rt>なか</rt></ruby>でたくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>続</rb><rt>つづ</rt></ruby>けられる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>人工衛星</rb><rt>じんこうえいせい</rt></ruby>。",
+          "hyouki": [
+            "宇宙ステーション"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "こわれた<ruby><rb>物</rb><rt>もの</rt></ruby>のかけら。",
+          "hyouki": [
+            "破片"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "（<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>三番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>がついて、ほのおが<ruby><rb>上</rb><rt>あ</rt></ruby>がる。",
+          "hyouki": [
+            "燃える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>燃</rb><rt>も</rt></ruby>えているようなようすになる。",
+          "hyouki": [
+            "燃える"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、さかんに<ruby><rb>起</rb><rt>お</rt></ruby>こる。",
+          "hyouki": [
+            "燃える"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>赤道</rb><rt>せきどう</rt></ruby>を<ruby><rb>０度</rb><rt>れいど</rt></ruby>として、そこから<ruby><rb>北極</rb><rt>ほっきょく</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>を９０<ruby><rb>度</rb><rt>ど</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けて<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>緯度</rb><rt>いど</rt></ruby>。",
+          "hyouki": [
+            "北緯"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>赤道</rb><rt>せきどう</rt></ruby>を<ruby><rb>０</rb><rt>れい</rt></ruby><ruby><rb>度</rb><rt>ど</rt></ruby>として、そこから<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>を９０<ruby><rb>度</rb><rt>ど</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>けて<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>緯度</rb><rt>いど</rt></ruby>。",
+          "hyouki": [
+            "南緯"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ]
+    }
+  }
+}

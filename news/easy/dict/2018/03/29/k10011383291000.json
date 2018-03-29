@@ -1,0 +1,132 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "フィルムを<ruby><rb>使</rb><rt>つか</rt></ruby>わないで、<ruby><rb>写</rb><rt>うつ</rt></ruby>したものを<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>えて、<ruby><rb>記録</rb><rt>きろく</rt></ruby>できるようにしたカメラ。デジカメ。",
+          "hyouki": [
+            "デジタルカメラ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にすみ、<ruby><rb>貝</rb><rt>かい</rt></ruby>がらを<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。アサリ・サザエ・タニシなど。",
+          "hyouki": [
+            "貝"
+          ]
+        },
+        {
+          "def": "<ruby><rb>貝</rb><rt>かい</rt></ruby>がら。",
+          "hyouki": [
+            "貝"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>箱</rb><rt>はこ</rt></ruby>。<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "ケース"
+          ]
+        },
+        {
+          "def": "<ruby><rb>場合</rb><rt>ばあい</rt></ruby>。できごと。",
+          "hyouki": [
+            "ケース"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>水泳</rb><rt>すいえい</rt></ruby>の<ruby><rb>飛</rb><rt>と</rt></ruby>びこみ。",
+          "hyouki": [
+            "ダイビング"
+          ]
+        },
+        {
+          "def": "<ruby><rb>水中</rb><rt>すいちゅう</rt></ruby>にもぐるスポーツ。スキンダイビングなど。",
+          "hyouki": [
+            "ダイビング"
+          ]
+        }
+      ]
+    }
+  }
+}

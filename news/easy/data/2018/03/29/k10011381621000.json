@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011381621000",
+  "news_prearranged_time": "2018-03-29 11:30:00",
+  "title": "東京オリンピック　会場に入るスタッフの顔を機械がチェック",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピック　<ruby>会場<rt>かいじょう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るスタッフの<ruby>顔<rt>かお</rt></ruby>を<ruby>機械<rt>きかい</rt></ruby>がチェック",
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0002'>パラリンピック</a>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20180327/../20180327/K10011381621_1803272035_1803272041_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011381621000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011381621000/k10011381621000.html"
+}
