@@ -1,0 +1,138 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>が<ruby><rb>美</rb><rt>うつく</rt></ruby>しかったり、<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>があったりして、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>に<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "観光地"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>利用</rb><rt>りよう</rt></ruby>できるように<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>設備</rb><rt>せつび</rt></ruby>。",
+          "hyouki": [
+            "施設"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>寺</rb><rt>てら</rt></ruby>で、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>や<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>骨</rb><rt>ほね</rt></ruby>をとむらうために<ruby><rb>建</rb><rt>た</rt></ruby>てた<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "塔"
+          ]
+        },
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>くそびえる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。タワー。",
+          "hyouki": [
+            "塔"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "がいせんしてくる<ruby><rb>軍隊</rb><rt>ぐんたい</rt></ruby>をむかえるために、<ruby><rb>建</rb><rt>た</rt></ruby>てられた<ruby><rb>門</rb><rt>もん</rt></ruby>。パリにあるものが<ruby><rb>有名</rb><rt>ゆうめい</rt></ruby>。",
+          "hyouki": [
+            "凱旋門"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "映像"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。",
+          "hyouki": [
+            "映像"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>顔</rb><rt>かお</rt></ruby>や<ruby><rb>体</rb><rt>からだ</rt></ruby>をそのほうへ<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "向く"
+          ]
+        },
+        {
+          "def": "そのほうに<ruby><rb>面</rb><rt>めん</rt></ruby>している。",
+          "hyouki": [
+            "向く"
+          ]
+        },
+        {
+          "def": "うまく<ruby><rb>合</rb><rt>あ</rt></ruby>う。<ruby><rb>適</rb><rt>てき</rt></ruby>している。",
+          "hyouki": [
+            "向く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "向く"
+          ]
+        },
+        {
+          "def": "あるほうへ<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "向く"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。",
+          "hyouki": [
+            "感じる"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことをおしきってすること。",
+          "hyouki": [
+            "冒険"
+          ]
+        }
+      ]
+    }
+  }
+}
